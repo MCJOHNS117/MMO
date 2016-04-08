@@ -1,0 +1,7 @@
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\bin\Debug\MMO.Photon.dll
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\bin\Debug\MMO.Photon.pdb
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\bin\Debug\MMO.Framework.dll
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\bin\Debug\MMO.Framework.pdb
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\obj\Debug\MMO.Photon.csprojResolveAssemblyReference.cache
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\obj\Debug\MMO.Photon.dll
+C:\Users\williamf\Documents\Visual Studio 2015\Projects\MMO\MMO.Photon\obj\Debug\MMO.Photon.pdb
